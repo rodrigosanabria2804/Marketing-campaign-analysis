@@ -28,8 +28,6 @@ A partir del análisis del notebook, se identificaron los siguientes puntos crí
 
 ## 5. Estructura del Repositorio
 * `Marketing Analysis.ipynb`: Notebook principal con el flujo de limpieza, EDA y pruebas estadísticas.
-* `marketing.csv`: Dataset con logs de usuarios y resultados de conversión.
-* `visuals/`: Capturas de los gráficos de tendencias de usuarios diarios.
 
 ## 6. Conclusiones y Recomendaciones de Marketing
 1. **Priorización de Inversión:** Escalar la personalización de anuncios en español de inmediato, dado su alto impacto y significancia.
@@ -37,6 +35,8 @@ A partir del análisis del notebook, se identificaron los siguientes puntos crí
 3. **Foco en Retención:** Con una retención del 66%, se recomienda implementar una campaña de "re-engagement" específicamente en los canales con menor desempeño para elevar el LTV (Lifetime Value).
 
 ---
+A continuación se presenta algunos de los gráficos desarrollados en el analisis:
+
 <img width="846" height="653" alt="image" src="https://github.com/user-attachments/assets/4bf97a9a-7003-44a5-b786-921c0e4ffdf7" />
 
 <img width="876" height="624" alt="image" src="https://github.com/user-attachments/assets/78cb96c5-159a-426d-afd0-af16cd471523" />
