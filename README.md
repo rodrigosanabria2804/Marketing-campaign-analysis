@@ -37,4 +37,15 @@ A partir del análisis del notebook, se identificaron los siguientes puntos crí
 3. **Foco en Retención:** Con una retención del 66%, se recomienda implementar una campaña de "re-engagement" específicamente en los canales con menor desempeño para elevar el LTV (Lifetime Value).
 
 ---
+<img width="846" height="653" alt="image" src="https://github.com/user-attachments/assets/4bf97a9a-7003-44a5-b786-921c0e4ffdf7" />
+
+<img width="876" height="624" alt="image" src="https://github.com/user-attachments/assets/78cb96c5-159a-426d-afd0-af16cd471523" />
+
+<img width="728" height="592" alt="image" src="https://github.com/user-attachments/assets/38db8f62-fc1c-40d7-8dbe-eda6b11fe0e5" />
+
+<img width="1220" height="401" alt="image" src="https://github.com/user-attachments/assets/69bd20c4-01ce-4cf0-8b75-34ee8e633f85" />
+
+
+
+
 *Este proyecto forma parte de mi portafolio como Marketing Manager especializado en Business Analytics.*
